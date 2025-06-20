@@ -6,7 +6,8 @@ With over **300+ international meals** — from spicy Asian cuisine to warm Euro
 
 ---
 
-![NutriMeal Preview](assets/preview.png)
+![NutriMeal Preview](NutriMeal-Home.jpg)
+![NutriMeal Preview](NutriMeal-Recipe Instruction.jpg)
 
 > ✨ *"Don't know what to cook? Let NutriMeal decide for you!"*
 
