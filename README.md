@@ -63,10 +63,3 @@ NutriMeal is perfect for:
 | ![Web Screenshot](NutriMeal-Recipe.jpg)  | ![Mobile Screenshot](Mobile-Recipe-NutriMeal.jpg)   |
 
 ---
-
-## 🧭 Getting Started (for Developers)
-
-git clone https://github.com/yourusername/nutrimeal-flutter-recipe-generator.git
-cd nutrimeal-flutter-recipe-generator
-flutter pub get
-flutter run -d chrome # or -d android
